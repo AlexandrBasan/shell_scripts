@@ -1,0 +1,1 @@
+do shell script "/Users/alexandr/Documents/Scripts/Project/copy_to_dropbox.sh"
